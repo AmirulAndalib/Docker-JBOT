@@ -24,7 +24,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          file: ./Dockerfile
+          file: ${{ secrets.DOCKER_FILENAME }}
           platforms: linux/amd64
           push: true
-          tags: jusidama18/jusidama-bot:latest
+          tags: ${{ secrets.DOCKER_TAGS }}
