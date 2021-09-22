@@ -1,0 +1,86 @@
+# Main Dependencies
+aiohttp
+aiofiles
+ffmpeg-python
+gTTS
+cryptography
+dnspython
+future
+googletrans==4.0.0rc1
+motor
+pillow
+psutil
+pykeyboard
+pyrogram
+python-arq
+requests
+search_engine_parser
+speedtest-cli
+TgCrypto
+#uvloop
+yt-dlp
+bs4
+wget
+python-dotenv
+feedparser
+#pyromod
+apscheduler
+fuzzysearch
+img2pdf
+
+# For PostGreSQL
+sqlalchemy
+psycopg2-binary
+
+# For addons
+cloudscrape
+gitpython
+heroku3
+js2py
+git+https://github.com/jusidama18/lk21
+lxml
+telegraph
+removebg
+youtube_search
+pytz
+mal-api
+anime_downloader
+pybase64
+geopy
+nekos.py
+jikanpy
+removebg
+fake_useragent
+wikipedia
+html_telegraph_poster
+quotefancy
+PyDictionary
+countryinfo
+secureme
+scathach-api
+babel
+youtubecrawler
+html5lib
+pyyaml
+YoutubeTags
+
+# For Android
+--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
+
+#OpenCC
+#tabulate
+#natsort
+#google-cloud-storage
+#emoji
+#pyshorteners
+#shazamio==0.0.2
+
+# Drive
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-magic
+tenacity
+
+# OLD
+#python-telegram-bot
