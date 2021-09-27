@@ -27,6 +27,7 @@ feedparser
 apscheduler
 fuzzysearch
 img2pdf
+PyPDF2
 
 # For PostGreSQL
 sqlalchemy
