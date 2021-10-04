@@ -47,7 +47,6 @@ mal-api
 anime_downloader
 pybase64
 geopy
-nekos.py
 jikanpy
 removebg
 fake_useragent
@@ -65,7 +64,8 @@ pyyaml
 YoutubeTags
 play-scraper
 PyPDF2
-pytube3
+opencv-python
+qrcode[pil]
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
