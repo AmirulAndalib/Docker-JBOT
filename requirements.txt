@@ -20,7 +20,6 @@ TgCrypto
 #uvloop
 yt-dlp
 bs4
-wget
 python-dotenv
 feedparser
 #pyromod
