@@ -17,12 +17,10 @@ requests
 search_engine_parser
 speedtest-cli
 TgCrypto
-#uvloop
 yt-dlp
 bs4
 python-dotenv
 feedparser
-#pyromod
 apscheduler
 fuzzysearch
 img2pdf
@@ -69,14 +67,6 @@ python-barcode
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
 
-#OpenCC
-#tabulate
-#natsort
-#google-cloud-storage
-#emoji
-#pyshorteners
-#shazamio==0.0.2
-
 # Drive
 google-api-python-client
 google-auth-httplib2
@@ -86,3 +76,12 @@ tenacity
 
 # OLD
 #python-telegram-bot
+#uvloop
+#OpenCC
+#tabulate
+#natsort
+#google-cloud-storage
+#emoji
+#pyshorteners
+#shazamio==0.0.2
+#pyromod
