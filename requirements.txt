@@ -30,7 +30,7 @@ sqlalchemy
 psycopg2-binary
 
 # For addons
-cloudscrape
+https://github.com/Ncode2014/cloudscraper/archive/refs/heads/master.zip #cloudscrape
 gitpython
 heroku3
 js2py
