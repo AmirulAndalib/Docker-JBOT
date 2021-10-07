@@ -41,7 +41,6 @@ removebg
 youtube_search
 pytz
 mal-api
-anime_downloader
 pybase64
 geopy
 jikanpy
