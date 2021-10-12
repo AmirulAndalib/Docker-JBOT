@@ -68,7 +68,7 @@ lyricsgenius
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
 
 # Drive
-google-api-python-client
+google-api-python-client==2.24.0
 google-auth-httplib2
 google-auth-oauthlib
 python-magic
