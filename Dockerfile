@@ -1,7 +1,7 @@
 # Set Docker Base Image
 FROM williambutcherbot/python:latest
 
-RUN apt-get -qq install -y p7zip-full mediainfo unzip
+RUN apt-get -qq install -y p7zip-full p7zip-rar mediainfo unzip
 
 # Installing Requirements
 RUN pip3 install -U pip
