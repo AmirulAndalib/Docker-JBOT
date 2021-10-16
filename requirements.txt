@@ -63,6 +63,7 @@ PyPDF2
 qrcode[pil]
 python-barcode
 lyricsgenius
+wget # Just In Case For Some Condition
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
