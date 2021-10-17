@@ -13,6 +13,7 @@ pillow
 psutil
 pykeyboard
 pyrogram
+pyromod # Will add even if bugging me
 python-arq
 python-dotenv
 requests
@@ -110,6 +111,5 @@ tenacity
 #emoji
 #pyshorteners
 #shazamio==0.0.2
-#pyromod
 
 # Sort in Alphabet for easier to documented.
