@@ -1,49 +1,38 @@
 # Main Dependencies
 aiohttp
 aiofiles
+apscheduler
+bs4
+feedparser
 ffmpeg-python
-gTTS
-cryptography
-dnspython
 future
+fuzzysearch
 googletrans==4.0.0rc1
-motor
+gTTS
 pillow
 psutil
 pykeyboard
 pyrogram
 python-arq
+python-dotenv
 requests
 search_engine_parser
 speedtest-cli
 TgCrypto
-yt-dlp
-bs4
-python-dotenv
-feedparser
-apscheduler
-fuzzysearch
-img2pdf
 
-# For PostGreSQL
-sqlalchemy
-psycopg2-binary
+# For MongoDB
+dnspython
+motor
 
-# For addons
-cloudscrape
+# For Additional Dependencies
 gitpython
 heroku3
 js2py
-git+https://github.com/jusidama18/lk21
 lxml
 telegraph
 removebg
-youtube_search
 pytz
-mal-api
-pybase64
 geopy
-jikanpy
 removebg
 fake_useragent
 wikipedia
@@ -51,29 +40,58 @@ html_telegraph_poster
 quotefancy
 PyDictionary
 countryinfo
-secureme
-scathach-api
 babel
-youtubecrawler
 html5lib
 pyyaml
-YoutubeTags
 play-scraper
-PyPDF2
-qrcode[pil]
-python-barcode
 lyricsgenius
+maigret
 wget # Just In Case For Some Condition
+
+# For PostGreSQL
+psycopg2-binary
+sqlalchemy
+
+# For Direct link
+cloudscrape
+git+https://github.com/jusidama18/lk21
+
+# For Anime
+jikanpy
+mal-api
+scathach-api
+
+# For Barcode
+python-barcode
+qrcode[pil]
+
+# For Youtube
+youtubecrawler
+YoutubeTags
+youtube_search
+yt-dlp
+
+# For PDF
+img2pdf
+PDFNetPython3
+PyPDF2
+
+# For Encrypt and Decrypt
+cryptography
+pybase64
+secureme
+
+# For Google Drive
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client #==2.24.0
+python-magic
+tenacity
+
+# ===== UNUSED ===== #
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
-
-# Drive
-google-api-python-client==2.24.0
-google-auth-httplib2
-google-auth-oauthlib
-python-magic
-tenacity
 
 # OLD
 #python-telegram-bot
