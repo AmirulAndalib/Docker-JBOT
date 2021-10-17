@@ -1,14 +1,14 @@
-# Main Dependencies
-aiohttp
+# Main Dependencies (20)
 aiofiles
+aiohttp
 apscheduler
 bs4
 feedparser
 ffmpeg-python
 future
 fuzzysearch
-googletrans==4.0.0rc1
 gTTS
+googletrans==4.0.0rc1
 pillow
 psutil
 pykeyboard
@@ -20,75 +20,82 @@ search_engine_parser
 speedtest-cli
 TgCrypto
 
-# For MongoDB
+# For Mongo DB (2)
 dnspython
 motor
 
-# For Additional Dependencies
-gitpython
-heroku3
-js2py
-lxml
-telegraph
-removebg
-pytz
-geopy
-removebg
-fake_useragent
-wikipedia
-html_telegraph_poster
-quotefancy
-PyDictionary
-countryinfo
+# For Additional Dependencies (20)
 babel
+countryinfo
+fake_useragent
+geopy
 html5lib
-pyyaml
-play-scraper
+html_telegraph_poster
+lxml
 lyricsgenius
 maigret
+play-scraper
+PyDictionary
+pytz
+pyyaml
+quotefancy
+removebg
+removebg
+telegraph
 wget # Just In Case For Some Condition
+wikipedia
 
-# For PostGreSQL
+# For PostGreSQL DB (2)
 psycopg2-binary
 sqlalchemy
 
-# For Direct link
+# For Herobu and Update (2)
+gitpython
+heroku3
+
+# For Direct link (3)
 cloudscrape
 git+https://github.com/jusidama18/lk21
+js2py
 
-# For Anime
+# For Anime (3)
 jikanpy
 mal-api
 scathach-api
 
-# For Barcode
+# For Barcode (2)
 python-barcode
 qrcode[pil]
 
-# For Youtube
+# For Youtube (4)
 youtubecrawler
 YoutubeTags
 youtube_search
 yt-dlp
 
-# For PDF
+# For PDF (3)
 img2pdf
 PDFNetPython3
 PyPDF2
 
-# For Encrypt and Decrypt
+# For Encrypt and Decrypt (3)
 cryptography
 pybase64
 secureme
 
-# For Google Drive
+# For Google Drive (5)
 google-auth-httplib2
 google-auth-oauthlib
 google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# ===== UNUSED ===== #
+# Total : 69
+
+# ===== Maybe Soon ? (1) ===== #
+#unshortenit
+
+# ===== UNUSED (11) ===== #
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
@@ -104,3 +111,5 @@ tenacity
 #pyshorteners
 #shazamio==0.0.2
 #pyromod
+
+# Sort in Alphabet for easier to documented.
