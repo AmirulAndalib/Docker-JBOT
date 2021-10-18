@@ -91,7 +91,10 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# Total : 69
+# For Testing
+spotdl
+
+# Total : 70
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
