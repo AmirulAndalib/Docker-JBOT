@@ -25,7 +25,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (20)
+# For Additional Dependencies (21)
 babel
 countryinfo
 fake_useragent
@@ -45,6 +45,7 @@ removebg
 telegraph
 wget # Just In Case For Some Condition
 wikipedia
+lottie
 
 # For PostGreSQL DB (2)
 psycopg2-binary
@@ -91,10 +92,11 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing
+# For Testing (2)
 spotdl
+pixiv-api
 
-# Total : 70
+# Total : 72
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
