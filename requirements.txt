@@ -34,7 +34,7 @@ html5lib
 html_telegraph_poster
 lxml
 lyricsgenius
-maigret
+https://github.com/soxoj/maigret/archive/refs/tags/v0.3.0.zip
 play-scraper
 PyDictionary
 pytz
