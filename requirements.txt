@@ -92,11 +92,12 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing (2)
+# For Testing (3)
 spotdl
 pixiv-api
+pytesseract
 
-# Total : 72
+# Total : 73
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
