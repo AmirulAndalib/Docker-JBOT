@@ -5,7 +5,7 @@ apscheduler
 bs4
 feedparser
 ffmpeg-python
-futures==3.3.0
+futures==2.2.0
 fuzzysearch
 gTTS
 googletrans==4.0.0rc1
