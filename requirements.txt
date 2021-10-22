@@ -5,7 +5,7 @@ apscheduler
 bs4
 feedparser
 ffmpeg-python
-future
+futures==3.3.0
 fuzzysearch
 gTTS
 googletrans==4.0.0rc1
@@ -13,7 +13,7 @@ pillow
 psutil
 pykeyboard
 pyrogram
-pyromod # Will add even if bugging me
+pyromod
 python-arq
 python-dotenv
 requests
@@ -33,7 +33,7 @@ geopy
 html5lib
 html_telegraph_poster
 lxml
-lyricsgenius
+lyricsgenius==3.0.1
 https://github.com/soxoj/maigret/archive/refs/tags/v0.3.0.zip
 play-scraper
 PyDictionary
