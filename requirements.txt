@@ -25,7 +25,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (21)
+# For Additional Dependencies (20)
 babel
 countryinfo
 fake_useragent
@@ -45,7 +45,6 @@ removebg
 telegraph
 wget # Just In Case For Some Condition
 wikipedia
-lottie
 
 # For PostGreSQL DB (2)
 psycopg2-binary
@@ -84,6 +83,10 @@ PyPDF2
 cryptography
 pybase64
 secureme
+
+# For Tgsticker to Gif (2)
+lottie
+cairosvg
 
 # For Google Drive (5)
 google-auth-httplib2
