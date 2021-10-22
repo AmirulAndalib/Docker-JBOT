@@ -95,17 +95,18 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing (3)
+# For Testing (4)
 spotdl
 pixiv-api
 pytesseract
+https://github.com/dotX12/ShazamIO/archive/refs/tags/0.0.5.zip
 
-# Total : 73
+# Total : 74
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
 
-# ===== UNUSED (11) ===== #
+# ===== UNUSED (10) ===== #
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
@@ -119,6 +120,5 @@ pytesseract
 #google-cloud-storage
 #emoji
 #pyshorteners
-#shazamio==0.0.2
 
 # Sort in Alphabet for easier to documented.
