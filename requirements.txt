@@ -99,7 +99,7 @@ tenacity
 spotdl
 pixiv-api
 pytesseract
-https://github.com/dotX12/ShazamIO/archive/refs/tags/0.0.5.zip
+shazamio==0.0.5
 
 # Total : 74
 
