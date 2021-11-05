@@ -25,10 +25,11 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (20)
+# For Additional Dependencies (21)
 babel
 countryinfo
 fake_useragent
+faker
 geopy
 html5lib
 html_telegraph_poster
