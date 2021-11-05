@@ -102,7 +102,7 @@ pixiv-api
 pytesseract
 shazamio==0.0.5
 
-# Total : 74
+# Total : 75
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
