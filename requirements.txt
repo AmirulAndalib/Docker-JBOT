@@ -55,10 +55,9 @@ sqlalchemy
 gitpython
 heroku3
 
-# For Direct link (3)
+# For Direct link (2)
 cloudscrape
 git+https://github.com/jusidama18/lk21
-js2py
 
 # For Anime (3)
 jikanpy
@@ -103,15 +102,18 @@ pytesseract
 shazamio==0.0.5
 tracemoepy # What Anime
 
-# Total : 76
+# Total : 75
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
 
-# ===== UNUSED (10) ===== #
+# ===== UNUSED (11) ===== #
 
 # For Android
 #--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
+
+# For Direct Link
+#js2py
 
 # OLD
 #python-telegram-bot
