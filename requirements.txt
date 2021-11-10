@@ -97,7 +97,7 @@ tenacity
 
 # For Testing (5)
 spotdl
-pixiv-api
+pixivpy
 pytesseract
 shazamio==0.0.5
 tracemoepy # What Anime
