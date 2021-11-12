@@ -95,15 +95,16 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing (5)
+# For Testing (6)
 spotdl
 pixivpy
 pixivpy-async
 pytesseract
 shazamio==0.0.5
 tracemoepy # What Anime
+htmlwebshot
 
-# Total : 75
+# Total : 76
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
