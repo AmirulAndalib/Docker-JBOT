@@ -74,10 +74,11 @@ YoutubeTags
 youtube_search
 yt-dlp
 
-# For PDF (3)
+# For PDF (4)
 img2pdf
 PDFNetPython3
 PyPDF2
+weasyprint
 
 # For Encrypt and Decrypt (3)
 cryptography
@@ -103,7 +104,7 @@ shazamio==0.0.5
 tracemoepy # What Anime
 htmlwebshot
 
-# Total : 76
+# Total : 77
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
