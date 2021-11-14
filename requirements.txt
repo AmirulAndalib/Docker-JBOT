@@ -97,7 +97,6 @@ tenacity
 
 # For Testing (6)
 spotdl
-pixivpy
 pixivpy-async
 pytesseract
 shazamio==0.0.5
