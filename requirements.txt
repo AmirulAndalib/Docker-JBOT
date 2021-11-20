@@ -56,7 +56,7 @@ gitpython
 heroku3
 
 # For Direct link (2)
-cloudscrape
+git+https://github.com/VeNoMouS/cloudscraper/tree/dev
 git+https://github.com/jusidama18/lk21
 
 # For Anime (3)
