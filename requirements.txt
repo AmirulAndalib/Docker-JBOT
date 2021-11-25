@@ -25,7 +25,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (21)
+# For Additional Dependencies (22)
 babel
 countryinfo
 fake_useragent
@@ -46,6 +46,7 @@ removebg
 telegraph
 wget # Just In Case For Some Condition
 wikipedia
+glitchart
 
 # For PostGreSQL DB (2)
 psycopg2-binary
@@ -101,10 +102,10 @@ spotdl
 pixivpy-async
 pytesseract
 shazamio==0.0.5
-tracemoepy # What Anime
+tracemoepy # What Anime (Not Yet)
 htmlwebshot
 
-# Total : 77
+# Total : 78
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
