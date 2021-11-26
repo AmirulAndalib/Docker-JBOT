@@ -12,7 +12,7 @@ googletrans==4.0.0rc1
 pillow
 psutil
 pykeyboard
-pyrogram
+git+https://github.com/pyrogram/pyrogram
 pyromod
 python-arq
 python-dotenv
