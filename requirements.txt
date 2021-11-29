@@ -1,4 +1,4 @@
-# Main Dependencies (20)
+# Main Dependencies (18)
 aiofiles
 aiohttp
 apscheduler
@@ -7,8 +7,6 @@ feedparser
 ffmpeg-python
 futures==2.2.0
 fuzzysearch
-gTTS
-googletrans==4.0.0rc1
 pillow
 psutil
 pykeyboard
@@ -105,7 +103,13 @@ shazamio==0.0.5
 tracemoepy # What Anime (Not Yet)
 htmlwebshot
 
-# Total : 78
+# For Voice (4)
+gTTS
+googletrans==4.0.0rc1
+pydub
+SpeechRecognition
+
+# Total : 80
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
