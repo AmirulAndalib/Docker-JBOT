@@ -33,7 +33,7 @@ html5lib
 html_telegraph_poster
 lxml
 lyricsgenius==3.0.1
-#https://github.com/soxoj/maigret/archive/refs/tags/v0.3.0.zip
+https://github.com/soxoj/maigret/archive/refs/tags/v0.3.0.zip
 play-scraper
 PyDictionary
 pytz
@@ -45,7 +45,6 @@ telegraph
 wget # Just In Case For Some Condition
 wikipedia
 glitchart
-magnet2torrent
 
 # For PostGreSQL DB (2)
 psycopg2-binary
