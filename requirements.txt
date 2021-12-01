@@ -10,7 +10,7 @@ fuzzysearch
 pillow
 psutil
 pykeyboard
-git+https://github.com/pyrogram/pyrogram
+pyrogram
 pyromod
 python-arq
 python-dotenv
