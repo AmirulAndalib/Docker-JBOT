@@ -79,10 +79,11 @@ PDFNetPython3
 PyPDF2
 weasyprint
 
-# For Encrypt and Decrypt (3)
+# For Encrypt and Decrypt (4)
 cryptography
 pybase64
 secureme
+bencodepy
 
 # For Tgsticker to Gif (2)
 lottie
@@ -109,7 +110,7 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# Total : 80
+# Total : 81
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
