@@ -23,10 +23,9 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (22)
+# For Additional Dependencies (21)
 babel
 countryinfo
-fake_useragent
 faker
 geopy
 html5lib
@@ -110,7 +109,7 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# Total : 82
+# Total : 81
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
