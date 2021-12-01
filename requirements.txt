@@ -23,7 +23,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (23)
+# For Additional Dependencies (22)
 babel
 countryinfo
 fake_useragent
