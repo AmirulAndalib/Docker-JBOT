@@ -95,13 +95,14 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing (6)
+# For Testing (7)
 spotdl
 pixivpy-async
 pytesseract
 shazamio==0.0.5
 tracemoepy # What Anime (Not Yet)
 htmlwebshot
+git+https://github.com/nathom/streamrip.git@dev
 
 # For Voice (4)
 gTTS
@@ -109,7 +110,7 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# Total : 81
+# Total : 82
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
