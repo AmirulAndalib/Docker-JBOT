@@ -1,4 +1,4 @@
-# Main Dependencies (18)
+# Main Dependencies (14)
 aiofiles
 aiohttp
 apscheduler
@@ -9,14 +9,16 @@ futures==2.2.0
 fuzzysearch
 pillow
 psutil
-pykeyboard
-pyrogram
-pyromod
 python-arq
 python-dotenv
 requests
 search_engine_parser
 speedtest-cli
+
+# For Telegram (4)
+pykeyboard
+pyrogram
+pyromod
 TgCrypto
 
 # For Mongo DB (2)
