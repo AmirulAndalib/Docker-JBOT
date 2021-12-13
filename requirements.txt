@@ -23,7 +23,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (21)
+# For Additional Dependencies (22)
 babel
 countryinfo
 faker
@@ -44,6 +44,7 @@ telegraph
 wget # Just In Case For Some Condition
 wikipedia
 glitchart
+1337x
 
 # For PostGreSQL DB (2)
 psycopg2-binary
@@ -110,7 +111,7 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# Total : 81
+# Total : 82
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
