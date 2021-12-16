@@ -68,7 +68,7 @@ scathach-api
 python-barcode
 qrcode[pil]
 
-# For Youtube (4)
+# For Youtube (5)
 youtubecrawler
 YoutubeTags
 youtube_search
@@ -112,7 +112,7 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# Total : 81
+# Total : 82
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
