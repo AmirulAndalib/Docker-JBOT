@@ -73,6 +73,7 @@ youtubecrawler
 YoutubeTags
 youtube_search
 yt-dlp
+pytube
 
 # For PDF (4)
 img2pdf
