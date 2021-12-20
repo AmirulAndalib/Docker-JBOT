@@ -25,7 +25,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (21)
+# For Additional Dependencies (20)
 babel
 countryinfo
 faker
@@ -43,7 +43,6 @@ quotefancy
 removebg
 removebg
 telegraph
-wget # Just In Case For Some Condition
 wikipedia
 glitchart
 
@@ -111,6 +110,10 @@ gTTS
 googletrans==4.0.0rc1
 pydub
 SpeechRecognition
+
+# For Downloader (2)
+pySmartDL
+wget
 
 # Total : 82
 
