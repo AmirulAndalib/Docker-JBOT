@@ -86,9 +86,10 @@ pybase64
 secureme
 bencodepy
 
-# For Tgsticker to Gif (2)
+# For Tgsticker to Gif (3)
 lottie
 cairosvg
+opencv-python-headless
 
 # For Google Drive (5)
 google-auth-httplib2
@@ -115,7 +116,7 @@ SpeechRecognition
 pySmartDL
 wget
 
-# Total : 82
+# Total : 83
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
