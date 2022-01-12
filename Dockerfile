@@ -16,4 +16,4 @@ RUN apt-get -qq update && apt install -y software-properties-common \
 
 # Test MongoDB
 RUN wget -O ./mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb https://fastdl.mongodb.org/tools/db/mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb \
-    apt install ./mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb && rm ./mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb \
+    && apt install ./mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb && rm ./mongodb-database-tools-ubuntu2004-x86_64-100.5.1.deb \
