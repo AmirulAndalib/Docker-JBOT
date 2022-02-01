@@ -45,6 +45,7 @@ removebg
 telegraph
 wikipedia
 glitchart
+newspaper3k
 
 # For PostGreSQL DB (2)
 psycopg2-binary
