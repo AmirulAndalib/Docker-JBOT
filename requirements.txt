@@ -41,11 +41,11 @@ pytz
 pyyaml
 quotefancy
 removebg
-removebg
 telegraph
 wikipedia
 glitchart
 newspaper3k
+howdoi
 
 # For PostGreSQL DB (2)
 psycopg2-binary
