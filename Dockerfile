@@ -7,11 +7,11 @@ COPY requirements.txt .
 
 # Installing Mediainfo Latest
 RUN wget -O ./libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb https://mediaarea.net/download/binary/libzen0/0.4.39/libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb \
-    && apt install ./libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb && rm ./libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb \
+    && apt install -y ./libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb && rm ./libzen0v5_0.4.39-1_amd64.xUbuntu_20.04.deb \
     && wget -O ./libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb https://mediaarea.net/download/binary/libmediainfo0/21.09/libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb \
-    && apt install ./libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb && rm ./libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb \
+    && apt install -y ./libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb && rm ./libmediainfo0v5_21.09-1_amd64.xUbuntu_20.04.deb \
     && wget -O ./mediainfo_21.09-1_amd64.xUbuntu_20.04.deb https://mediaarea.net/download/binary/mediainfo/21.09/mediainfo_21.09-1_amd64.xUbuntu_20.04.deb \
-    && apt install ./mediainfo_21.09-1_amd64.xUbuntu_20.04.deb && rm ./mediainfo_21.09-1_amd64.xUbuntu_20.04.deb
+    && apt install -y ./mediainfo_21.09-1_amd64.xUbuntu_20.04.deb && rm ./mediainfo_21.09-1_amd64.xUbuntu_20.04.deb
 
 # Installing Requirements
 RUN apt-get -qq update && apt install -y software-properties-common \
