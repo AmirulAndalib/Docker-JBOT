@@ -25,7 +25,7 @@ TgCrypto
 dnspython
 motor
 
-# For Additional Dependencies (20)
+# For Additional Dependencies (21)
 babel
 countryinfo
 faker
@@ -35,6 +35,7 @@ html_telegraph_poster
 lxml
 lyricsgenius==3.0.1
 https://github.com/soxoj/maigret/archive/refs/tags/v0.3.0.zip
+https://github.com/Morrolan/PastebinAPI/archive/master.zip
 play-scraper
 PyDictionary
 pytz
@@ -118,7 +119,7 @@ SpeechRecognition
 pySmartDL
 wget
 
-# Total : 83
+# Total : 84
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
