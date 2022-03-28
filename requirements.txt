@@ -56,11 +56,10 @@ sqlalchemy
 gitpython
 heroku3
 
-# For Direct link (3)
+# For Direct link (2)
 #git+https://github.com/VeNoMouS/cloudscraper@dev
 git+https://github.com/nekaru-storage/cloudscraper
 git+https://github.com/johnsean180801/lk-21
-git+https://github.com/pyppeteer/pyppeteer@dev
 
 # For Anime (3)
 jikanpy
@@ -120,7 +119,7 @@ SpeechRecognition
 pySmartDL
 wget
 
-# Total : 85
+# Total : 84
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
@@ -135,13 +134,7 @@ wget
 #js2py
 
 # OLD
-#python-telegram-bot
 #uvloop
-#OpenCC
-#tabulate
-#natsort
-#google-cloud-storage
-#emoji
 #pyshorteners
 
 # Sort in Alphabet for easier to documented.
