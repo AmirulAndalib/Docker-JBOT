@@ -114,15 +114,16 @@ googletrans==4.0.0rc1
 pydub
 SpeechRecognition
 
-# For Downloader (2)
+# For Downloader (3)
 pySmartDL
+pyaiodl
 wget
 
 # For Paste Service (2)
 https://github.com/Morrolan/PastebinAPI/archive/master.zip
 privatebinapi
 
-# Total : 85
+# Total : 86
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
