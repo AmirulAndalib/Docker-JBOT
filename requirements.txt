@@ -100,14 +100,13 @@ google-api-python-client #==2.24.0
 python-magic
 tenacity
 
-# For Testing (7)
+# For Testing (6)
 spotdl
 pixivpy-async
 pytesseract
 shazamio==0.0.5
 tracemoepy # What Anime (Not Yet)
 htmlwebshot
-magnet2torrent
 
 # For Voice (4)
 gTTS
@@ -124,7 +123,7 @@ wget
 https://github.com/Morrolan/PastebinAPI/archive/master.zip
 privatebinapi
 
-# Total : 87
+# Total : 86
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
