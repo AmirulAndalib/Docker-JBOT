@@ -55,10 +55,11 @@ sqlalchemy
 gitpython
 heroku3
 
-# For Direct link (2)
+# For Direct link (3)
 #git+https://github.com/VeNoMouS/cloudscraper@dev
 git+https://github.com/nekaru-storage/cloudscraper
 git+https://github.com/johnsean180801/lk-21
+json5
 
 # For Anime (3)
 jikanpy
@@ -123,7 +124,7 @@ wget
 https://github.com/Morrolan/PastebinAPI/archive/master.zip
 privatebinapi
 
-# Total : 86
+# Total : 87
 
 # ===== Maybe Soon ? (1) ===== #
 #unshortenit
