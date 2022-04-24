@@ -112,8 +112,9 @@ htmlwebshot
 # For Voice (4)
 gTTS
 googletrans==4.0.0rc1
+# https://github.com/m4mallu/voicebot
 pydub
-SpeechRecognition
+SpeechRecognition 
 
 # For Downloader (3)
 pySmartDL
@@ -125,21 +126,3 @@ https://github.com/Morrolan/PastebinAPI/archive/master.zip
 privatebinapi
 
 # Total : 87
-
-# ===== Maybe Soon ? (1) ===== #
-#unshortenit
-#git+https://github.com/nathom/streamrip.git@dev
-
-# ===== UNUSED (11) ===== #
-
-# For Android
-#--index-url https://gitlab.com/api/v4/projects/20272543/packages/pypi/simple
-
-# For Direct Link
-#js2py
-
-# OLD
-#uvloop
-#pyshorteners
-
-# Sort in Alphabet for easier to documented.
