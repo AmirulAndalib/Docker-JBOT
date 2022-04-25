@@ -1,4 +1,4 @@
-# Main Dependencies (14)
+# Main Dependencies (15)
 aiofiles
 aiohttp
 apscheduler
@@ -14,6 +14,7 @@ python-dotenv
 requests
 search_engine_parser
 speedtest-cli
+uvloop
 
 # For Telegram (4)
 pykeyboard
@@ -125,4 +126,4 @@ wget
 https://github.com/Morrolan/PastebinAPI/archive/master.zip
 privatebinapi
 
-# Total : 87
+# Total : 88
